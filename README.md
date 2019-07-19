@@ -7,6 +7,9 @@ Original Data Downloaded from:
 https://www.citibikenyc.com/system-data
 
 Data Manipulation via Python to combine my twelve different workbooks into one CSV. CSV output was 3.4GB with 17.5 million records. 
-Using Python made it much easier to combine my twelve tiles, as Excel struggled with the size of my downloaded CSV files. 
+Using Python made it much easier to combine my twelve tiles, as Excel struggled with the size of my downloaded CSV files. I had some data issues exporting to Excel as my files would only have ten million rows. It took my machine several minutes to run the python script to generate the one CSV.
+
+Python Data Manipulation code here:
+https://github.com/ascott4680/20-tableau/blob/master/Citi%20Bike%20Share%202018%20Data%20Handling.ipynb
 
 -Andrew Scott
