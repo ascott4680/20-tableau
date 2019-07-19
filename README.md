@@ -3,6 +3,9 @@ Tableau Dashboard located on Tableau Public as the data source leveraged include
 URL for Tableau Public Workbook:
 https://public.tableau.com/profile/andrew.scott3265#!/vizhome/Citi2018/CitiBikeStory
 
+Packaged Workbook Download on Google Drive 380MB:
+https://drive.google.com/open?id=1Dl5WIya_d0iq9qNQAJf1QstyjWH860ys
+
 Original Data Downloaded from:
 https://www.citibikenyc.com/system-data
 
