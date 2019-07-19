@@ -1,6 +1,6 @@
 Tableau Dashboard located on Tableau Public as the data source leveraged included more than 17 million records, this data was filtered down to nearly 15 million records. Chriteria were subscribers to the Citibike program with a birth year of 1960 or later, and a confirmed gender.
 
-URL for Tableau Public Workbook:<br>
+<B>URL for Tableau Public Workbook:</B><br>
 https://public.tableau.com/profile/andrew.scott3265#!/vizhome/Citi2018/CitiBikeStory
 
 Packaged Workbook Download on Google Drive 380MB:<br>
